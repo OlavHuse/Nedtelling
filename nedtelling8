@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Alexander</title>
+        <title>Olav</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="style.css">
@@ -14,9 +14,9 @@
                 <li> <a href="index.html">Hjem</a></li>
        
             <li> <a href="nedtelling5.html">Karl k.</a></li>
-            <li> <a href="nedtelling7.html">Adrian</a></li>
-            <li> <a href="nedtelling8.html">Olav</a></li>
-                <li> <a class="active1" href="nedtelling.html">Alexander</a> </li>
+            <li> <a  href="nedtelling7.html">Adrian</a></li>
+            <li> <a class="active1" href="nedtelling8.html">Olav</a></li>
+                <li> <a   href="nedtelling.html">Alexander</a> </li>
             <li> <a href="nedtelling2.html">Mathias</a></li>
              <li> <a href="nedtelling6.html">Sivert</a> </li>
             <li> <a href="nedtelling3.html">Simen</a></li>
@@ -45,9 +45,9 @@
                       
                            <a href="nedtelling5.html">Karl k.</a>
                             <a href="nedtelling7.html">Adrian</a>
-                            <a href="nedtelling8.html">Olav</a>
+                            <a href="nedtelling8.html">Olav </a>
 
-                    <a class="active1" href="nedtelling.html">Alexander</a>
+                    <a  href="nedtelling.html">Alexander</a>
                     <a href="nedtelling2.html">Mathias</a>
                              <a href="nedtelling6.html">Sivert</a>
                     <a href="nedtelling3.html">Simen</a>
@@ -58,7 +58,7 @@
                     
                 </div> 
             </li>
-        </div>
+        </div>  
         
        <!-- <div class="heading">
             <header> <h1>Logg</h1> </header>
@@ -75,7 +75,7 @@
     
         
         <script>
-            var countDownDate = new Date("May 28, 2018 00:00:00").getTime();
+            var countDownDate = new Date("Feb 23, 2018 00:00:00").getTime();
 
 
             var x = setInterval(function() {

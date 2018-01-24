@@ -288,14 +288,8 @@ h5 {
     background-position: center;
     background-size: auto;
     
-    
 }
     
-@media (min-width: 400px) {
-    .img {
-        width: 100%;
-    }
-}
 
 
 

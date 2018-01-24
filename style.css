@@ -235,7 +235,7 @@ h1 {
     background-color: darkslategray;
     padding: 2rem;
     box-shadow: 5px 5px 5px #333;
-    Border-top: 1px solid black;
+   
     }
 .date {
     font-size: 20px;
@@ -243,9 +243,9 @@ h1 {
     text-shadow: 5px 5px 5px #333;
     padding: 1rem;
     text-align: center;
-    background-color: darkslategray;
+    background-color: dimgray;
     box-shadow: 5px 5px 5px #333;
-    border-top: 1px solid black;
+   
     
     
     }
@@ -274,13 +274,16 @@ h5 {
     padding: 10px;
 }
 .midt {
-    background-color: cadetblue;
+    background-color: dimgray;
     height: 1000px;
     
 }
 .refresh {
     float:
     
+}
+.img {
+    border: 2px solid black;
 }
 
 
